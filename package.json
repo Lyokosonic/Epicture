@@ -15,7 +15,7 @@
     "axios": "^0.19.1",
     "native-base": "^2.13.8",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-androw": "0.0.34",
     "react-native-app-auth": "^5.0.0",
     "react-native-dynamic-search-bar": "^0.3.1",
